@@ -1,0 +1,7 @@
+# AgriVision Guard - Dependencies
+streamlit>=1.30.0
+tensorflow>=2.15.0
+keras>=3.0.0
+numpy>=1.24.0
+pillow>=9.5.0
+pandas>=2.0.0
